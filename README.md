@@ -35,10 +35,13 @@ b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kes
 
 
 Berikut adalah gambaran kalkulatornya:
-<p>
-![kalkulator ukuran kecil](https://github.com/user-attachments/assets/81e7e081-26c4-435a-bee5-15411139840b)
-</p>
 
-<br>
+
+
+![kalkulator ukuran kecil](https://github.com/user-attachments/assets/81e7e081-26c4-435a-bee5-15411139840b)
+
+
 Foto Pembuat:
+
+
 ![ahmadi6](https://github.com/user-attachments/assets/be8edd2a-d9eb-4936-8d06-0c1d8d7f7841)
