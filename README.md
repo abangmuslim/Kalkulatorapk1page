@@ -34,3 +34,4 @@ a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuk
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
 
 ![kalkulator](https://github.com/user-attachments/assets/83ce4d9a-6026-4dd2-a903-907a4930de81)
+![ahmadi6](https://github.com/user-attachments/assets/be8edd2a-d9eb-4936-8d06-0c1d8d7f7841)
