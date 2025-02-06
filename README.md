@@ -1,4 +1,4 @@
-﻿# Kalkulatorapk1page
+![kalkulator ukuran kecil](https://github.com/user-attachments/assets/fce74d05-236a-49b0-869c-391f8ca12cf3)﻿# Kalkulatorapk1page
 
  Anda seorang asisten junior programmer diminta untuk membuat aplikasi kalkulator sederhana yang dapat melakukan empat operasi dasar matematika: penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi harus memungkinkan pengguna untuk memasukkan dua angka dan memilih operasi yang diinginkan. Program harus menghitung dan menampilkan hasilnya dengan benar, serta memberikan pesan kesalahan jika terjadi pembagian dengan nol. Anda perlu merancang antarmuka pengguna, mengimplementasikan logika perhitungan, dan melakukan pengujian untuk memastikan aplikasi berjalan dengan lancar tanpa kesalahan. Anda diminta untuk melakukan langkah kerja seperti dibawah ini:
 1.	Tentukan Struktur Data
@@ -33,5 +33,6 @@ b.	Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox.
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
 
-![kalkulator](https://github.com/user-attachments/assets/83ce4d9a-6026-4dd2-a903-907a4930de81)
+![kalkulator ukuran kecil](https://github.com/user-attachments/assets/81e7e081-26c4-435a-bee5-15411139840b)
+
 ![ahmadi6](https://github.com/user-attachments/assets/be8edd2a-d9eb-4936-8d06-0c1d8d7f7841)
