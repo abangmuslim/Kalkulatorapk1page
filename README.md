@@ -33,15 +33,18 @@ b.	Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox.
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
 
-
+<p>
+<strong>
 Berikut adalah gambaran kalkulatornya:
+</strong>>
+</p>
 
+<br>
+<img width="400" src="https://github.com/user-attachments/assets/81e7e081-26c4-435a-bee5-15411139840b?"/>
 
-
-![kalkulator ukuran kecil](https://github.com/user-attachments/assets/81e7e081-26c4-435a-bee5-15411139840b)
-
-
+<p>
+<strong>
 Foto Pembuat:
-
-
-![ahmadi6](https://github.com/user-attachments/assets/be8edd2a-d9eb-4936-8d06-0c1d8d7f7841)
+</strong>
+ </p>
+<img width="200" src="https://github.com/user-attachments/assets/be8edd2a-d9eb-4936-8d06-0c1d8d7f7841"/>
